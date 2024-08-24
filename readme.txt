@@ -4,3 +4,5 @@ Third line
 fourth line
 fifth line
 sixth line
+seventh line
+Hello world, i'm mastering git and Github
